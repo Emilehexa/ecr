@@ -21,6 +21,7 @@ Le repo suit une logique simple : **la stratégie dit quoi et pourquoi, le syst�
 
 02-actions/         Le système d'actions
   README.md           Comment le système fonctionne (statuts, règles)
+  prochaines-etapes.md Ce qu'il faut faire maintenant, dans l'ordre
   backlog.md          Toutes les actions, avec ID, phase, priorité, statut
   cadence.md          Rituels hebdo / mensuel / trimestriel
   automatisations.md  Ce qui est automatisé, ce qui reste humain
@@ -59,6 +60,8 @@ Le repo suit une logique simple : **la stratégie dit quoi et pourquoi, le syst�
 6. Langue du repo : français.
 
 ## Par où commencer
+
+**→ La liste ordonnée de ce qu'il faut faire maintenant : `02-actions/prochaines-etapes.md`.**
 
 1. Lire `01-strategie/strategie-seo.md` (15 min).
 2. Ouvrir `02-actions/backlog.md` et filtrer sur `P0`.
