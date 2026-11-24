@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "RoofingContractor",
+  "@id": "https://ecr-couverture.fr/#entreprise",
+  "name": "ECR Couverture – Façade",
+  "alternateName": ["ECR", "E.C.R.", "ECR Couverture"],
+  "legalName": "Entreprise de Construction et de Restauration",
+  "slogan": "La qualité au défi du temps",
+  "foundingDate": "1981",
+  "url": "https://ecr-couverture.fr",
+  "telephone": "+33328656531",
+  "email": "contact@ecr-couverture.fr",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2470 Route de Bergues",
+    "postalCode": "59470",
+    "addressLocality": "Wormhout",
+    "addressRegion": "Hauts-de-France",
+    "addressCountry": "FR"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": "[À COMPLÉTER]", "longitude": "[À COMPLÉTER]" },
+  "identifier": [
+    { "@type": "PropertyValue", "propertyID": "SIREN", "value": "322814252" },
+    { "@type": "PropertyValue", "propertyID": "SIRET", "value": "[À COMPLÉTER]" }
+  ],
+  "numberOfEmployees": { "@type": "QuantitativeValue", "value": 48 },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Qualibat E-E59856 (dont 3194 Couverture monuments historiques, 3193, 3133 technicité supérieure)",
+      "credentialCategory": "Qualification professionnelle",
+      "recognizedBy": { "@type": "Organization", "name": "Qualibat" },
+      "url": "https://www.qualibat.com/pdf/get-certificate/dq_950450"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "RGE",
+      "credentialCategory": "Reconnu Garant de l'Environnement"
+    }
+  ],
+  "areaServed": ["Wormhout", "Dunkerque", "Bergues", "Hazebrouck", "Cassel", "Steenvoorde", "Hondschoote", "Flandre"],
+  "sameAs": ["[URL fiche Google]", "[URL PagesJaunes]", "[URL Facebook]", "[URL LinkedIn]", "https://www.qualibat.com/pdf/get-certificate/dq_950450"]
+}
